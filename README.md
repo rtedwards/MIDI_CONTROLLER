@@ -1,4 +1,4 @@
-# MIDI_CONTROLLER
+# MIDI Light Controller
 
 A VJ project that allows control of LED strips via a MIDI controller.  
 
